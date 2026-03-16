@@ -87,7 +87,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="width" val="4"/>
       <a name="label" val="S"/>
-      <a name="labelloc" val="south"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp loc="(430,100)" name="Rot_Esq"/>
     <comp lib="0" loc="(470,50)" name="Pin">
